@@ -15,7 +15,7 @@ Each password is saved automatically in a history file on your Desktop.
 ## ✨ Features
 
 - Simple and intuitive graphical interface (built with `tkinter`)
-- One-click generation of secure 16-character passwords
+- One-click generation of secure 20-character passwords
 - Passwords saved with date and time
 - History file stored on the user’s Desktop
 - Cross-platform support (Windows, macOS, Linux)
