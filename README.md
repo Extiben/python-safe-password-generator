@@ -27,6 +27,6 @@ Each password is saved automatically in a history file on your Desktop.
 1. Make sure you have **Python 3.x** installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repo.git
+   git clone https://github.com/Extiben/python-safe-password-generator.git
    cd your_repo
    python generador-contra.py
