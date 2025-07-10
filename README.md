@@ -29,4 +29,4 @@ Each password is saved automatically in a history file on your Desktop.
    ```bash
    git clone https://github.com/your_username/your_repo.git
    cd your_repo
-   python generate_password.py
+   python generador-contra.py
